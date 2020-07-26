@@ -4,3 +4,4 @@
 | Round #656 |  3  | A, B, C |       |   760   | https://codeforces.com/contest/1385/ |
 | Round #657 |  2  |   A, B  |  487  |   1090  | https://codeforces.com/contest/1379/ |
 | Round #658 |  2  |   A,B   |  1490 |   1196  | https://codeforces.com/contest/1382/ |
+| Round #659 |  2  |   A     |  474  |   1358  | https://codeforces.com/contest/1384/ |
