@@ -5,3 +5,4 @@
 | Round #657 |  2  |   A, B  |  487  |   1090  | https://codeforces.com/contest/1379/ |
 | Round #658 |  2  |   A,B   |  1490 |   1196  | https://codeforces.com/contest/1382/ |
 | Round #659 |  2  |   A     |  474  |   1358  | https://codeforces.com/contest/1384/ |
+| Round #661 |  3  | A, B, C |       |   1355  | https://codeforces.com/contest/1399/ |
