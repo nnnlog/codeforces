@@ -7,3 +7,6 @@
 | Round #659 |  2  |   A     |  474  |   1358  | https://codeforces.com/contest/1384/ |
 | Round #661 |  3  | A, B, C |       |   1355  | https://codeforces.com/contest/1399/ |
 | Round #662 |  2  | A, B, C |  2074 |   1456  | https://codeforces.com/contest/1393/ |
+| Round #663 |  2  | A, B |  1062 |   1345  | https://codeforces.com/contest/1391/ |
+| Round #664 |  2  | A, B |  665 |   1302  | https://codeforces.com/contest/1395/ |
+| Global Round 10 |    | A, B, C |  2027 |   1349  | https://codeforces.com/contest/1392/ |
