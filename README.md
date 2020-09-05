@@ -11,3 +11,4 @@
 | Round #664 |  2  | A, B |  665 |   1302  | https://codeforces.com/contest/1395/ |
 | Global Round 10 |    | A, B, C |  2027 |   1349  | https://codeforces.com/contest/1392/ |
 | Round #665 |    | B |  300 |   1252  | https://codeforces.com/contest/1401/ |
+| Edu Round 94 | 2 | A |   |   1203  | https://codeforces.com/contest/1400/ |
