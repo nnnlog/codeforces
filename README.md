@@ -14,4 +14,4 @@
 | Edu Round 94 | 2 | A |   |   1203  | https://codeforces.com/contest/1400/ |
 | Round #667 | 3 | A, B, C, D |   |   1350  | https://codeforces.com/contest/1409/ |
 | Round #668 | 2 | A, B | 1320 | 1323 | https://codeforces.com/contest/1405/ |
-| Round #669 | 1 | A | 318 | 1274 | https://codeforces.com/contest/1407/ |
+| Round #669 | 2 | A | 318 | 1274 | https://codeforces.com/contest/1407/ |
