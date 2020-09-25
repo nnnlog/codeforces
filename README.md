@@ -17,4 +17,4 @@
 | Round #669 | 2 | A | 318 | 1274 | https://codeforces.com/contest/1407/ |
 | Round #670 | 2 | A, B | 1230 | 1316 | https://codeforces.com/contest/1406/ |
 | Round #671 | 2 | D1 | 343 | 1230 | https://codeforces.com/contest/1419/ |
-| Round #672 | 2 | A, B | 798 | 1213 | https://codeforces.com/contest/1419/ |
+| Round #672 | 2 | A, B | 798 | 1213 | https://codeforces.com/contest/1420/ |
