@@ -1,4 +1,4 @@
-|    Name    | Div |  Solve  | Score |  Rated  |                 Link                 |
+|    Name    | Div |  Solve  | Score |  Rating  |                 Link                 |
 |:----------:|:---:|:-------:|:-----:|:-------:|:------------------------------------:|
 | Round #655 |  2  |   A, C  |  1186 | Unrated | https://codeforces.com/contest/1372/ |
 | Round #656 |  3  | A, B, C |       |   760   | https://codeforces.com/contest/1385/ |
@@ -17,3 +17,4 @@
 | Round #669 | 2 | A | 318 | 1274 | https://codeforces.com/contest/1407/ |
 | Round #670 | 2 | A, B | 1230 | 1316 | https://codeforces.com/contest/1406/ |
 | Round #671 | 2 | D1 | 343 | 1230 | https://codeforces.com/contest/1419/ |
+| Round #672 | 2 | A, B | 798 | 1213 | https://codeforces.com/contest/1419/ |
