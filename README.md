@@ -10,7 +10,7 @@
 | Round #663 |  2  | A, B |  1062 |   1345  | https://codeforces.com/contest/1391/ |
 | Round #664 |  2  | A, B |  665 |   1302  | https://codeforces.com/contest/1395/ |
 | Global Round 10 |    | A, B, C |  2027 |   1349  | https://codeforces.com/contest/1392/ |
-| Round #665 |    | B |  300 |   1252  | https://codeforces.com/contest/1401/ |
+| Round #665 | 2 | B |  300 |   1252  | https://codeforces.com/contest/1401/ |
 | Edu Round 94 | 2 | A |   |   1203  | https://codeforces.com/contest/1400/ |
 | Round #667 | 3 | A, B, C, D |   |   1350  | https://codeforces.com/contest/1409/ |
 | Round #668 | 2 | A, B | 1320 | 1323 | https://codeforces.com/contest/1405/ |
@@ -19,3 +19,4 @@
 | Round #671 | 2 | D1 | 343 | 1230 | https://codeforces.com/contest/1419/ |
 | Round #672 | 2 | A, B | 798 | 1213 | https://codeforces.com/contest/1420/ |
 | Round #674 | 3 | A, B, C |  | 1250 | https://codeforces.com/contest/1426/ |
+| Grakn 2020 |   | A, B, C | 2015 | 1359 | https://codeforces.com/contest/1408/ |
