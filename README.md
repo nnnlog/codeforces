@@ -20,3 +20,4 @@
 | Round #672 | 2 | A, B | 798 | 1213 | https://codeforces.com/contest/1420/ |
 | Round #674 | 3 | A, B, C |  | 1250 | https://codeforces.com/contest/1426/ |
 | Grakn 2020 |   | A, B, C | 2015 | 1359 | https://codeforces.com/contest/1408/ |
+| Global Round 11 |   | A | 486 | 1350 | https://codeforces.com/contest/1427/ |
