@@ -21,4 +21,6 @@
 | Round #674 | 3 | A, B, C |  | 1250 | https://codeforces.com/contest/1426/ |
 | Grakn 2020 |   | A, B, C | 2015 | 1359 | https://codeforces.com/contest/1408/ |
 | Global Round 11 |   | A | 486 | 1350 | https://codeforces.com/contest/1427/ |
-| Edu Round 96 | 2 | A, B, C |  | 1362 | https://codeforces.com/contest/1430/ |
+| Edu Round 96 | 2 | A, B, C |  | 1363 | https://codeforces.com/contest/1430/ |
+| Round #678 | 2 | A, B(U), C(U) | 484 | 1262 | https://codeforces.com/contest/1436/ |
+| Round #679 | 2 | A, B(U) | 428 | 1176 | https://codeforces.com/contest/1435/ |
