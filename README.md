@@ -27,3 +27,6 @@
 | Edu Round 97 | 2 | A, B, C, D(U) |  | 1346 | https://codeforces.com/contest/1437/ |
 | Round #680 | 2 | A, B | 1446 | 1372 | https://codeforces.com/contest/1445/ |
 | Round #681 | 2 | A, B, C | 2354 | 1411 | https://codeforces.com/contest/1443/ |
+| Round #681 | 2 | A, B, C | 2354 | 1411 | https://codeforces.com/contest/1443/ |
+| Round #682 | 2 | A, B, C(U) | 1208 | Unrated | https://codeforces.com/contest/1438/ |
+| Round #685 | 2 | A, B | 614 | 1324 | https://codeforces.com/contest/1451/ |
