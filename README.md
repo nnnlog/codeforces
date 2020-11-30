@@ -31,3 +31,4 @@
 | Round #682 | 2 | A, B, C(U) | 1208 | Unrated | https://codeforces.com/contest/1438/ |
 | Round #685 | 2 | A, B | 614 | 1324 | https://codeforces.com/contest/1451/ |
 | Round #686 | 3 | A, B, C, D |  | 1360 | https://codeforces.com/contest/1454/ |
+| Round #687 | 2 | A, B | 1539 | 1346 | https://codeforces.com/contest/1457/ |
