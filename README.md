@@ -32,3 +32,4 @@
 | Round #685 | 2 | A, B | 614 | 1324 | https://codeforces.com/contest/1451/ |
 | Round #686 | 3 | A, B, C, D |  | 1360 | https://codeforces.com/contest/1454/ |
 | Round #687 | 2 | A, B | 1539 | 1346 | https://codeforces.com/contest/1457/ |
+| Edu Round 99 | 2 | A, B, C |  | 1349 | https://codeforces.com/contest/1455/ |
