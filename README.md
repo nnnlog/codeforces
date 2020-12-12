@@ -33,6 +33,8 @@
 | Round #686 | 3 | A, B, C, D |  | 1360 | https://codeforces.com/contest/1454/ |
 | Round #687 | 2 | A, B | 1539 | 1346 | https://codeforces.com/contest/1457/ |
 | Edu Round 99 | 2 | A, B, C |  | 1349 | https://codeforces.com/contest/1455/ |
+| Round #688 | 2 | A | 444 | 1235 | https://codeforces.com/contest/1453/ |
+| Round #689 | 2 | A, B(U), C, D | 2463 | 1346 | https://codeforces.com/contest/1461/ |
 
 ## organization
 |    Name    | Div |  Solve  | Score |  Rating  |                 Link                 |
