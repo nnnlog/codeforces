@@ -36,6 +36,7 @@
 | Round #688 | 2 | A | 444 | 1235 | https://codeforces.com/contest/1453/ |
 | Round #689 | 2 | A, B(U), C, D | 2463 | 1346 | https://codeforces.com/contest/1461/ |
 | Round #695 | 2 | A, B(U) | 238 | 1218 | https://codeforces.com/contest/1467/ |
+| Round #696 | 2 | A, B, C | 1806 | 1357 | https://codeforces.com/contest/1474/ |
 
 ## organization
 |    Name    | Div |  Solve  | Score |  Rating  |                 Link                 |
