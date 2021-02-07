@@ -39,6 +39,7 @@
 | Round #696 | 2 | A, B, C | 1806 | 1357 | https://codeforces.com/contest/1474/ |
 | Round #698 | 2 | A, B, C | 2558 | 1536 | https://codeforces.com/contest/1478/ |
 | Edu Round 103 | 2 | A, B, C, D(U) |  | 1555 | https://codeforces.com/contest/1476/ |
+| Round #699 | 2 | A, B, C | 2265 | 1613 | https://codeforces.com/contest/1481/ |
 
 ## organization
 |    Name    | Div |  Solve  | Score |  Rating  |                 Link                 |
