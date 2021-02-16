@@ -46,4 +46,5 @@
 |:----------:|:---:|:-------:|:-----:|:-------:|:------------------------------------:|
 | Global Round 12 |  2  |   A, B  |  1231 | 872 | https://codeforces.com/contest/1450/ |
 | Round #690 | 3  |   A, B, C  |   | 1086 | https://codeforces.com/contest/1462/ |
-| Edu Round 100 |  2  |   A(U), B(U)  |  0 | 1107 | https://codeforces.com/contest/1463/ |
+| Edu Round 100 |  2  |   A(U), B(U)  |   | 1107 | https://codeforces.com/contest/1463/ |
+| Edu Round 104 |  2  |   A, B, C, D  |   | 1420 | https://codeforces.com/contest/1487/ |
