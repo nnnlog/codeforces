@@ -54,3 +54,4 @@
 |    Name    | Div |  Solve  | Score |  Rating  |                 Link                 |
 |:----------:|:---:|:-------:|:-----:|:-------:|:------------------------------------:|
 | Edu Round 107 |  2  |   A, B, C  |   | 497 | https://codeforces.com/contest/1511/ |
+| Round #715 |  2  |   A, B  | 1444 | 902 | https://codeforces.com/contest/1509/ |
