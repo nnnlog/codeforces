@@ -49,6 +49,7 @@
 | Edu Round 100 |  2  |   A(U), B(U)  |   | 1107 | https://codeforces.com/contest/1463/ |
 | Edu Round 104 |  2  |   A, B, C, D  |   | 1418 | https://codeforces.com/contest/1487/ |
 | Round #702 |  3  |   A, B, C, D, E, F, G(U)  |   | 1546 | https://codeforces.com/contest/1490/ |
+| Round #725 |  3  |   A, B, C, D, F, G(U)  |   | 1628 | https://codeforces.com/contest/1538/ |
 
 ## Busan
 |    Name    | Div |  Solve  | Score |  Rating  |                 Link                 |
